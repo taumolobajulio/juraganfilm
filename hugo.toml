@@ -1,4 +1,7 @@
 baseURL = 'https://juraganfilm.pages.dev/'
 languageCode = 'id-id'
-title = 'Juragan Film'
+title = 'Juragan Film Jepang'
 theme = 'PaperMod'
+
+[params]
+    defaultTheme = "dark"
