@@ -1,6 +1,10 @@
-+++
-date = '2026-03-23T00:52:12+08:00'
-draft = false
-title = 'Film Baru'
-+++ halo semuanya
+\---
+
+title: "Judul Film Jepang"
+
+date: 2026-03-23T01:58:00+07:00
+
+draft: false
+
+\---
 
