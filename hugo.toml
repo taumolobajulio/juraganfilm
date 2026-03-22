@@ -1,0 +1,4 @@
+baseURL = 'https://juraganfilm.pages.dev/'
+languageCode = 'id-id'
+title = 'Juragan Film'
+theme = 'PaperMod'
